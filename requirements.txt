@@ -3,6 +3,6 @@ pandas
 numpy
 scikit-learn
 shap
-lime
 matplotlib
-seaborn
+joblib
+gdown
